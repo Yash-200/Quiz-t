@@ -20,7 +20,7 @@ A Dockerized application that analyzes quiz performance data, generates insights
 
 # Clone the repository
 ```
-git clone [https://github.com/Yash/quiz-analysis.git](https://github.com/Yash-200/Quiz-t.git)
+git clone https://github.com/Yash-200/Quiz-t.git
 cd quiz-analysis
 ```
 
